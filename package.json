@@ -1,9 +1,0 @@
-{
-  "name": "5-different-numbers",
-  "version": "0.0.0",
-  "description": "5DifferentNumbers",
-  "main": "server.js",
-  "author": {
-    "name": "radina"
-  }
-}
