@@ -19,7 +19,7 @@ namespace _18DiffIntSize
             catch (Exception ex)
             {
 
-                Console.WriteLine($"{input} can't fit in any type")
+                Console.WriteLine($"{input} can not fit in any type.");
             }
         }
     }
