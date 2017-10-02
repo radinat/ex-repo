@@ -1,3 +1,3 @@
 # ex-repo
 Repo for exercises
-We resolved the conflict!
+Edited again in the main branch!
